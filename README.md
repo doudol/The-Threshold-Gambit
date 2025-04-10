@@ -330,7 +330,7 @@ The Python `logging` module is used for detailed output.
 
 Contributions are welcome! If you find bugs, have suggestions for improvements, or want to add new features (like different agent types or environment dynamics), please feel free to:
 
-1.  Open an issue on the repository to discuss the change.
+1.  Open an [issue](https://github.com/doudol/The-Threshold-Gambit/issues) on the repository to discuss the change.
 2.  Fork the repository, make your changes, and submit a pull request.
 
 Please try to maintain the existing code style and ensure adequate documentation/comments for new additions.
