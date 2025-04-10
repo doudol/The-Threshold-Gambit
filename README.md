@@ -311,7 +311,7 @@ The Python `logging` module is used for detailed output.
 
 ## Limitations
 
-*   **Agent Simplicity:** The agent's decision logic is extremely basic (a simple counter and threshold). It lacks memory beyond consecutive punishments, planning capabilities, or complex representations of the environment.
+*   **Agent Simplicity:** The agent's decision logic is extremely basic (a simple counter and threshold). It lacks memory beyond consecutive punishments, planning capabilities, or complex representations of the environment. (might consider a more complex structure in the future)
 *   **Environment Simplicity:** The environment provides only binary, context-free feedback (reward/punishment). There's no spatial aspect, no resource management, no interaction with other agents.
 *   **Reward/Punishment Nature:** "Rewards" and "Punishments" are abstract signals; they don't carry intrinsic value or cost within the simulation beyond their effect on the agent's counter.
 *   **Learning Mechanism (LearningAgent):** The learning implemented is a simple heuristic, not grounded in established reinforcement learning theory like Q-learning or policy gradients. Its adaptation might not be optimal.
