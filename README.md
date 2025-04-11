@@ -162,7 +162,7 @@ ai_hope_simulation/
     # Or using SSH
     # git clone git@github.com/doudol/The-Threshold-Gambit.git
 
-    cd ai_hope_simulation
+    cd The-Threshold-Gambit
     ```
     
 
