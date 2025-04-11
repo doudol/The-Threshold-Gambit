@@ -145,7 +145,7 @@ ai_hope_simulation/
 
 ├── requirements.txt # Python dependencies
 
-├── LICENSE # Project license file (e.g., MIT)
+├── LICENSE # Project license file
 
 ├── lifespan_trend.png
 
@@ -158,13 +158,13 @@ ai_hope_simulation/
 1.  **Clone the repository:**
     ```bash
     # Using HTTPS
-    git clone https://github.com/YOUR_USERNAME/ai_hope_simulation.git
+    git clone https://github.com/doudol/The-Threshold-Gambit.git
     # Or using SSH
-    # git clone git@github.com:YOUR_USERNAME/ai_hope_simulation.git
+    # git clone git@github.com/doudol/The-Threshold-Gambit.git
 
     cd ai_hope_simulation
     ```
-    *(Replace `YOUR_USERNAME/ai_hope_simulation.git` with the actual repository URL)*
+    
 
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
